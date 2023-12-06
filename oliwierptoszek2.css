@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:mediumpurple;
+}
+#pudlo{
+    margin: auto;
+    width: 90%;
+}
+#logo{
+background-color: aqua;
+height: 10%px;
+font-style: italic;
+	text-shadow: 2px 2px 5px #1100ff;
+    font-size: 30px;
+}
+iframe{
+    width: 69%;
+    height: 500px;
+}
+#menu{
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	
+background-color: chartreuse;
+float: right;
+height: 508px;
+width: 30%;
+font-size: 22px;
+
+}
+#stopka{
+background-color: deeppink;
+font-style: oblique;
+	font-size: 20px;
+    text-transform: uppercase;
+}
+img{
+    width: 60%;
+    height: 100px;
+}
